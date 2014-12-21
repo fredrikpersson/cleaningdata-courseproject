@@ -1,4 +1,4 @@
-This script calculates the average of columns based on the "Human Activity Recognition Using Smartphones Dataset".
+run_analysis.R calculates the average of columns based on the "Human Activity Recognition Using Smartphones Dataset".
 The data is grouped by activities and subjects, over which the average has been calculated for each column that describes a feature.
 
 In the produced dataset, there is one column "activity" specifying the activity (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) and one column "subject" that specifies subject id (1-30). 
